@@ -1,0 +1,55 @@
+    .custom-button {
+        padding: 10px 26px;
+        font-size: 18px;
+        border: 2px solid #0077b5;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .custom-button:hover {
+      background-color: #e6f2fb;
+    }
+    .linkedin-logo {
+      font-size: 60px;
+    }
+    .linkedin-text {
+      font-size: 45px;
+      margin-left: 12px;
+    }
+    .navbar-icon {
+      font-size: 26px;
+      margin-top: 30px;
+    }
+    .navbar-label {
+      font-size: 16px;
+      margin-top: 10px;
+      display: inline-block;
+    }
+    .hero-section {
+      padding: 50px 0 10px;
+      min-height: 90vh;
+    }
+    .hero-title {
+      font-size: 60px;
+      font-weight: 600;
+      margin-bottom: 50px;
+      line-height: 1.1;
+    }
+    .form-control-lg {
+      height: calc(2.875rem + 10px);
+      font-size: 18px;
+    }
+    .hero-img {
+      margin-left: 100px;
+      max-width: 900px;
+      height: auto;
+    }
+    @media (min-width: 992px) {
+      .hero-section .container {
+        max-width: 1140px;
+      }
+    }
+    .badge-normal {
+      font-weight: normal !important;
+    }
+
+    
